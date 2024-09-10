@@ -1,0 +1,27 @@
+1)how to handle the exception in spring boot
+2)USing  java 8 how to remove the duplicate elts from Integer arrary
+3)Executor  framewoork and Thread life cycle
+4)Hashmap internal working and current hashmap
+5)ArryList vs LinkedList
+6) write the code using spingboot how to fetch the data from DB
+7)How to deploy the code exlain  the CI pipeline.
+8)HashMAP and HashSet internal working  explain
+9)Transaction Mgmt
+10)Caching  in Hibernate 1st level catch and 2nd Level catch
+11)Spring Boot Catching 
+12)Annotaion @Bean,@Component and @Retry
+13)Compiletime Exception
+14)Contract Hashcode() and equal() method
+15)Mono and WebFlux  in spring boot
+16)Microserice and Monolithic  appliaction 
+17)Design patten : Saga  ,Circuit break and Singleton and Adapter Desgin patten
+18)Why use Quarkus
+19)Difference List and Set and ArrayList  and Vector 
+20)Serilization  how to serilized the explain the code
+21)how to create thread which one better by extending and Implement Runnable Interface
+22)Completable Features
+23)Java 8 features -Lamda and Functional interface and Stream API
+24)Java 17 features Sealed Class and Record 
+25)Spring boot actuator
+25)Docker file
+26)Solid Principle
