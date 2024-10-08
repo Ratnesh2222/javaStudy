@@ -1,5 +1,5 @@
 1)how to handle the exception in spring boot
-2)USing  java 8 how to remove the duplicate elts from Integer arrary
+2)USing  java 8 how to remove the duplicate items from Integer array
 3)Executor  framewoork and Thread life cycle
 4)Hashmap internal working and current hashmap
 5)ArryList vs LinkedList
@@ -25,3 +25,9 @@
 25)Spring boot actuator
 25)Docker file
 26)Solid Principle
+27)how to throw the exception using java 8 features
+28)map and FlapMap differnce
+29JDK and JRE difference
+30)Store Procedure
+31)Innner join and Left outer join in DB
+32)Having clause in DB
