@@ -2,8 +2,8 @@
 2)Using  java 8 how to remove the duplicate items from Integer array
 	Ans : using distinct, example : List<Integer> listWithoutDuplicates = numbersList.stream().distinct().collect(Collectors.toList());
 3)Executor  framework and Thread life cycle
-4)Hashmap internal working and current hashmap
-5)ArryList vs LinkedList
+4)HashMap internal working and current hashmap
+5)ArrayList vs LinkedList
 6) write the code using spingboot how to fetch the data from DB
 7)How to deploy the code, explain the CI pipeline.
 8)HashMAP and HashSet internal working  explain
@@ -15,7 +15,7 @@
 14)Contract Hashcode() and equal() method
 15)Mono and WebFlux  in spring boot
 16)Microserice and Monolithic  appliaction 
-17)Design patten : Saga  ,Circuit break and Singleton and Adapter Desgin patten
+17)Design patten : Saga  ,Circuit break and Singleton and Adapter Design patten
 18)Why use Quarkus
 19)Difference List and Set and ArrayList  and Vector 
 20)Serilization  how to serilized the explain the code

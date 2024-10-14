@@ -1,0 +1,40 @@
+Apache kafka:----open source distributed streaming platform that allows for development of real time event driven applications. Allow  developers to continuously produce and consume stream of data. Kafka is distributed and run as cluster
+-fast
+-high accuracy
+-in order
+-fault tolerance
+
+Use Case: 
+- decoupling system dependency ( means minimize system integration)
+- messaging
+- location tracking (every minute/sec send location message to topic)
+- data gathering
+
+architecture :
+
+Kafka build on 4 core api:
+-Producer API: This enables an application to publish a stream to a Kafka topic. A topic is a named log that stores the records in the order they occurred relative to one another. After a record is written to a topic, it can’t be altered or deleted; instead, it remains in the topic for a preconfigured amount of time—for example, for two days—or until storage space runs out.
+
+-Consumer API: This enables an application to subscribe to one or more topics and to ingest and process the stream stored in the topic. It can work with records in the topic in real-time, or it can ingest and process past records.
+
+-Streams API: This builds on the Producer and Consumer APIs and adds complex processing capabilities that enable an application to perform continuous, front-to-back stream processing—specifically, to consume records from one or more topics, to analyze, aggregate or transform them as required, and to publish resulting streams to the same topics or other topics. While the Producer and Consumer APIs can be used for simple stream processing, it’s the Streams API that enables development of more sophisticated data- and event-streaming applications.
+
+-Connector API: This lets developers build connectors, which are reusable producers or consumers that simplify and automate the integration of a data source into a Kafka cluster.
+
+LinkedIn developed Kafka in 2011 as a high-throughput message broker for its own use, then donated Kafka to the Apache Software Foundation.
+Today Microsoft, AirBnB and Netflix rely on Kafka to deliver real-time, data-driven experiences to their customers.
+
+Apache technologies often used with Kafka----
+Kafka is frequently used with several other Apache technologies as part of a larger streams processing, event-driven architecture or big data analytics solution.
+
+-Apache Spark
+Apache Spark is an analytics engine for large-scale data processing. You can use Spark to perform analytics on streams delivered by Apache Kafka and to produce real-time stream processing applications, such as the aforementioned click-stream analysis.
+
+-Apache NiFi
+Apache NiFi is a data flow management system with a visual, drag-and-drop interface. Because NiFi can run as a Kafka producer and a Kafka consumer, it’s an ideal tool for managing data flow challenges that Kafka can’t address.
+
+-Apache Flink
+Apache Flink is an engine for performing computations on event streams at scale, with consistently high speed and low latency. Flink can ingest streams as a Kafka consumer, perform operations based on these streams in real time and publish the results to Kafka or to another application.
+
+-Apache Hadoop
+Apache Hadoop is a distributed software framework that lets you store massive amounts of data in a cluster of computers for use in big data analytics, machine learning, data mining and other data-driven applications that process structured and unstructured data. Kafka is often used to create a real-time streaming data pipeline to a Hadoop cluster.
