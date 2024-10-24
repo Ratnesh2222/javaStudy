@@ -1,0 +1,22 @@
+Q-1) How can you make your application scalable for a big traffic day
+Ans: Average answer : I will put the VM/EC2 in auto scaling group and use load balancer(Loadbalancer-> Auto Scaling group-> EC2)
+     
+	
+
+Q-2)How do you achieve DR for your cloud application?
+Answer  : replication active-active region. If one region down then route53 send traffic to stable region.
+
+Q-3) How do you secure your application in cloud
+Answer: use KMS, IAM, firewall for security
+
+Q-4) Describe an architecture you designed.
+Answer: explain only what you work
+
+Q-5) Biggest challenge you face during designing of your application on cloud
+zero downtime, cost optimization, reduce latency
+
+Q-6) How do you pick one service vs another as solutions architect
+Q-7) What is the difference between SQL and NoSQL ?
+Q-8) What is cloud computing?
+Q-9) What is AWS Service X?
+	

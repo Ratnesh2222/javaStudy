@@ -3,8 +3,40 @@ Design patterns in microservice
 How to create aws pipeline using cft/terraform
 java 8 feature
 
+Office visit : https://chebz162229098.sl2469408.sl.dst.ibm.com/CHR/landingPage/employee
+
+udemy link : https://ibm-learning.udemy.com/organization/home/
+
 
 
 
 
 Telusko : Data Structures and Algorithms (DSA) in Java 2024 : https://www.youtube.com/watch?v=4_HOnhB64Dg
+
+Aws cloud architecture interview questions : https://www.youtube.com/watch?v=8zsdpwvTxos
+
+15 Oct
+
+System Design on AWS Course :  : https://www.youtube.com/watch?v=h8NpIop9Lho&list=PL5aURjJ6mdUecuFvHqay0xZ0iN9SOe5nE
+
+System design YouTube/Netflix  [Good]: https://www.youtube.com/watch?v=7hZXBrI2TjY&list=PL5aURjJ6mdUecuFvHqay0xZ0iN9SOe5nE&index=2
+
+System design WhatsApp : https://www.youtube.com/watch?v=xCc9xk8LPTo&list=PL5aURjJ6mdUecuFvHqay0xZ0iN9SOe5nE&index=3
+
+16 Oct 
+
+System design for Twitter : https://www.youtube.com/watch?v=wls6ghXmiP8&list=PL5aURjJ6mdUecuFvHqay0xZ0iN9SOe5nE&index=5
+
+Monolith vs Microservices on AWS : https://www.youtube.com/watch?v=JtTGctBYOvo&list=PL5aURjJ6mdUecuFvHqay0xZ0iN9SOe5nE&index=5
+
+17 Oct
+Training for aws certification
+
+18 Oct
+Training for aws certification
+
+19 Oct :
+Serverless (udemy) : https://ibm-learning.udemy.com/course/aws-serverless-a-complete-guide/learn/lecture/20940354#content
+
+API gateway authorization and authentication
+
